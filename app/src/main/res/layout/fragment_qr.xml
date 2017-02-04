@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="moje.src.QRFragment">
+
+    <Button
+        android:id="@+id/scanner"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_background"
+        android:gravity="center"
+        android:text="Skeniraj"
+        android:textSize="18dp"
+        android:textColor="@color/material_grey_850">
+    </Button>
+
+
+</FrameLayout>

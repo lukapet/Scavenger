@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="moje.src.GalerijaFragment"
+    android:orientation="vertical"
+    android:textColor="@color/primary_text_material_dark">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- TODO: Update blank fragment layout -->
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/slika1">
+
+            </ImageView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/slika1"
+                android:id="@+id/slika2">
+
+            </ImageView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/slika2"
+                android:id="@+id/slika3">
+
+            </ImageView>
+
+    </RelativeLayout>
+</ScrollView>
+</RelativeLayout>

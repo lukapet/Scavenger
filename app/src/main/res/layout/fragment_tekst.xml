@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="moje.src.TekstFragment"
+    android:orientation="horizontal">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- TODO: Update blank fragment layout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/zadatak"
+                android:textAlignment="center"
+                android:layout_margin="10dp"
+                android:background="#19ffffff"
+                android:padding="3dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/zahtevi"
+                android:textSize="18dp"
+                android:layout_margin="10dp"
+                android:background="#19ffffff"
+                android:padding="10dp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lokacija"
+                android:textSize="18dp"
+                android:textAlignment="center"
+                android:layout_margin="10dp" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

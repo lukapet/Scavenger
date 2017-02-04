@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="moje.src.TastaturaFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout --><![CDATA[
+
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        ]]>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/resenje"
+        android:hint="Unesite resenje zadatka"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="Predaj"
+        android:background="@drawable/button_background"
+        android:id="@+id/btnPredaj"
+         />
+
+
+</LinearLayout>

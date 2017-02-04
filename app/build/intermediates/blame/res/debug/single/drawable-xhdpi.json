@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_03.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\src\\main\\res\\drawable-xhdpi\\icon_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo1.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\src\\main\\res\\drawable-xhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_02.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\src\\main\\res\\drawable-xhdpi\\icon_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vuforia_splash.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\src\\main\\res\\drawable-xhdpi\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_banner.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_01.png",
+        "source": "C:\\Users\\Luka\\Desktop\\Scavenger\\app\\src\\main\\res\\drawable-xhdpi\\icon_01.png"
+    }
+]

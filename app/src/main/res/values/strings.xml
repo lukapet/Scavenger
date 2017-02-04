@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scavenger</string>
+    <string name="app_description">IOT Scavenger Hunt</string>
+    <string name="splash_screen_description">Vuforia Splash</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="facebook_app_id">1258585664181804</string>
+
+    <string name="TabNazivZadatak">Zadatak</string>
+    <string name="TabNazivOpis">Opis</string>
+    <string name="TabNazivGakeija">Galerija</string>
+    <string name="TabNazivPomoc">"Pomoc"</string>
+    <string name="TabNazivResenje">"Resenje"</string>
+
+    <string name="JsonMetaNazivHardver">elementi</string>
+    <string name="JsonMetaNazivSoftver">tip</string>
+    <string name="JsonMetaNazivOpis">opis</string>
+    <string name="JsonMetaNazivNaziv">naziv</string>
+    <string name="JsonMetaNazivTekst">tekst</string>
+    <string name="JsonMetaNazivLokacija">lokacija</string>
+    <string name="JsonMetaNazivPredZnanje">potrebnoznanje</string>
+    <string name="JsonMetaNazivURL">URL</string>
+    <string name="JsonMetaNazivResenje">kod</string>
+    <string name="JsonMetaNazivSlike">slike</string>
+    <string name="JsonMetaNazivHint">hint</string>
+    <string name="JsonMetaNazivKraj">Kraj</string>
+    <string name="JsonMetaNazivBrojZadataka">broj_zadataka</string>
+    <string name="JsonMetaNazivServis">servis</string>
+    <string name="JsonMetaNazivTajmer">tajmer</string>
+    <string name="JsonMetaNazivObjekat">Zadaci</string>
+    <string name="JsonMetaNazivTezina">tezina</string>
+
+    <string name="OpisFragmentKey">tekstualni</string>
+
+    <string name="TAGSkeniranje">Skeniranje taga</string>
+    <string name="TAGNema">Nema taga</string>
+    <string name="TAGNepoznato">Nepoznata akcija</string>
+    <string name="TAGCitanje">Ne pomerajte tag, skeniranje je u toku</string>
+    <string name="TAGNeuspesno">Skeniranje nije uspelo</string>
+    <string name="TAGSkenirano">skenirano</string>
+    <string name="NemaNFC">NFC nije podrzan na ovom uredjaju</string>
+    <string name="NFCIskljucen">NFC nije ukljucen</string>
+    <string name="Priblizi">Priblizite tag</string>
+
+    <string name="Rezultat_Poruka">Postignut rezultat: </string>
+    <string name="ShareURL">http://www.elab.rs</string>
+    <string name="Rezultat">rezultat</string>
+    <string name="Bundle">bundle</string>
+    <string name="Poruka">poruka</string>
+    <string name="Zavrsetak">Igra je zavrsena</string>
+
+    <string name="QR_Mode_Scan">SCAN_MODE</string>
+    <string name="QR_Mode_QR">QR_CODE_MODE</string>
+    <string name="QR_Result">SCAN_RESULT</string>
+
+    <string name="Domen">http://scavenger.freevar.com/</string>
+    <string name="Pocetni_Servis">redirektor.php</string>
+    <string name="URL_Rezultat">obrada.php</string>
+    <string name="Kraj_Vreme">Vreme je isteklo</string>
+    <string name="Kraj_Zavrseno">Zavrsili ste igru</string>
+    <string name="Nema_Interneta">Niste povezani na mrezu</string>
+    <string name="Preference">Settings</string>
+    <string name="Preference_Key">Kod</string>
+    <string name="Moodle_URL">https://moodle.elab.fon.bg.ac.rs/login/token.php</string>
+    <string name="Moodle_Service">moodle_mobile_app</string>
+    <string name="Token">token</string>
+    <string name="Obrada">obrada.php</string>
+    <string name="Obrada_Update">obrada2.php</string>
+
+</resources>
